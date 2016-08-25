@@ -7,23 +7,23 @@ Solución de Ejercicios
 ######Ejemplo 1:  
 
 _Input:_  
-_num1=4_
-_num2=6_
-_num3=8_
+_num1=4_  
+_num2=6_  
+_num3=8_  
 
 
-_Output_
+_Output_  
 _6_
 
 ######Ejemplo 2:
 
 _Input:_  
-_num1=3_
-_num2=-4_
-_num2=13_
+_num1=3_  
+_num2=-4_  
+_num2=13_  
 
-_Output_
-_4_
+_Output_  
+_4_  
 
 ___Completando la función___
 
